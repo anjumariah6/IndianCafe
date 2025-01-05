@@ -3,13 +3,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCyqIuSAaywDrknunbkHVB7XEIdRQPSxgM",
-    authDomain: "indiancafe-7a8f1.firebaseapp.com",
-    projectId: "indiancafe-7a8f1",
-    storageBucket: "indiancafe-7a8f1.firebasestorage.app",
-    messagingSenderId: "278941627793",
-    appId: "1:278941627793:web:1c5faf1e7aeaa2304a5630",
-    measurementId: "G-B0G4V9P04F"
+//removed from github sue to security concerns. Please check zip file for this configuration
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
